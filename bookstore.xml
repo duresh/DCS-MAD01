@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore>
+
+    <book name="book 1" id="1">
+    <category id="1">Science</category>
+    <author>J J Raman</author>
+    <year>1998</year>
+    <price>550.00</price>
+    </book>
+
+    <book name="book 2" id="2">
+    <category id="1">english</category>
+    <author>K K Saman</author>
+    <year>2000</year>
+    <price>5000.00</price>
+    </book>
+
+    <book name="book 3" id="3">
+    <category id="1">Maths</category>
+    <author>J J Raman</author>
+    <year>2005</year>
+    <price>400.00</price>
+    </book>
+
+
+</bookstore>
